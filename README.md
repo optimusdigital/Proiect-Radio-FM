@@ -24,7 +24,7 @@ Proiectul constă în crearea unui radio controlat de o placă de dezvoltare Ard
 
 
 
-<b><h3> Pregătirea componentelor </h3><b>
+<b><h3> Pregătirea componentelor </h3></b>
 
 
 
