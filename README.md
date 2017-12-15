@@ -22,7 +22,24 @@ Proiectul constă în crearea unui radio controlat de o placă de dezvoltare Ard
 <b>Unelte necesare:</b>
 <li>letcon și fludor;</li>
 
-
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/placi-avr/656-clona-arduino-uno-r3-atmega328p-atmega16u2-cablu.html">Placă de dezvoltare: Arduino Uno;</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/wireless-radio-fm/745-modul-radio-fm-rda5807m.html">Modul FM RDA5807M;</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/interfata-convertoare-de-niveluri/181-translator-de-nivel-bidirectional-cu-4-canale.html">Translator de nivel logic;</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/audio-amplificatoare-audio/614-modul-mini-amplificator-pam8403-in-clasa-d-stereo-3-w.html">Mini amplificator audio PAM8403;</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/optoelectronice-lcd-uri/2894-lcd-cu-interfata-i2c-si-backlight-albastru.html">Modul LCD 1602 I2C cu backlight albastru;</a></span></li>
+<li><span style="text-decoration: underline;">4 x <a href="https://www.optimusdigital.ro/butoane-i-comutatoare/1119-buton-6x6x6.html">butoane</a>;</span></li>
+<li><span style="text-decoration: underline;">2 x <a href="https://www.optimusdigital.ro/audio-difuzoare/2147-difuzor-de-1-w.html">difuzoare 1 W</a>;</span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/kituri/2222-kit-breadboard-hq-830-p.html">Kit breadboard HQ</a>;</span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/fire-fire-nemufate/388-fir-albastru-cu-diametru-de-1-mm-la-metru.html">Fir</a></span><span> cu lungimea de cel puțin 2 metri;*</span></li>
+</ul>
+<p>*puteți să luați mai multe fire de culori diferite pentru a vă facilita realizarea conexiunilor hardware</p>
+<p>Unelte necesare:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/letcon-uri/3019-letcon-velleman-60-w-230-v.html">letcon</a></span> și <span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/fludor/23-fludor-la-tub-1mm-10-gr.html">fludor</a></span>;</p>
+</li>
+</ul>
 
 <b><h3> Pregătirea componentelor </h3></b>
 
