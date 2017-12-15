@@ -75,7 +75,7 @@ Creată special pentru utilizarea unui ecran  LCD 1602 prin protocolul I2C;
 
 Dezvoltată de Frank de Brabander și este inclusă în Library Manager.
 
-Pentru a afla mai multe detalii despre cum să instalați o bibliotecă în mediul de dezvoltare Arduino IDE, accesăți urmatorul link.
+Pentru a afla mai multe detalii despre cum să instalați o bibliotecă în mediul de dezvoltare Arduino IDE, accesăți urmatorul <a href="https://www.optimusdigital.ro/content/10-tutorial-instalare-biblioteca"><span style="text-decoration: underline;">link</span>.</a>
 
 
 
