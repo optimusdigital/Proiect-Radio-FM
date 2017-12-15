@@ -4,9 +4,9 @@
 
 Proiectul constă în crearea unui radio controlat de o placă de dezvoltare Arduino. Componentele care stau la baza acestui proiect sunt modulul FM RDA5807M și amplificatorul audio PAM8403. Placa de dezvoltare are rolul de a seta parametri de funcționare a modulului FM.  De asemenea, aceasta este folosită și de un ecran LCD 1602 pentru a afișa informații utile, cum ar fi frecvența de recepție sau volumul. Datorită diferenței tensiunii de funcționare a plăcii de dezvoltare și modulul FM, trebuie să utilizați un translator de nivel logic.
 
-Componente necesare
+<b> Componente necesare </b>
 
--Placă de dezvoltare: Arduino Uno;
+<li>Placă de dezvoltare: Arduino Uno; </li>
 -Modul FM RDA5807M;
 -Translator de nivel logic;
 -Mini amplificator audio PAM8403;
