@@ -49,6 +49,8 @@ Alimentarea plăcii de dezvoltare se poate face în mai multe moduri, prin USB, 
 
 Amplificatorul audio PAM 8403 se alimentează cu o tensiune cuprinsă între 2.5 V și 5 V. Este recomandat să utilizați o sursă externă pentru amplificatorul audio deoarece o placă de dezvoltare Arduino nu poate alimenta toate aceste componente simultan.
 
+Cele patru butoane (volumeDown, volumeUp, frequencyDown, frequencyUp) se conectează astfel:
+<img src="https://lh5.googleusercontent.com/BLAZdusgEh23-6egSusrNDvKUPrGKg0E7dKHSnA9ze0mOKypw7G7I8Gr2sqxGJX_qS7YytvuvDXRJuGZR1SVdzW4uAvd8KDXmFZ-B5F1eQkEu9sLTrveLj7h77FZqmdu3_XUlFSq" width="1117" height="501" alt="BLAZdusgEh23-6egSusrNDvKUPrGKg0E7dKHSnA9" />
 
 
 <b> <h3> Încărcarea codului pe placa de dezvoltare </h3> </b>
