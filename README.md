@@ -57,23 +57,23 @@ Amplificatorul audio PAM 8403 se alimentează cu o tensiune cuprinsă între 2.5
 
 Pentru a utiliza toate componentele, trebuie să aveți următoarele biblioteci:
 
-Wire:
+<h4>Wire:</h4>
 
-Bibliotecă utilizată pentru comunicarea I2C;
+<li>Bibliotecă utilizată pentru comunicarea I2C; </li>
 
-Este inclusă în mediul de dezvoltare Arduino IDE.
+<li>Este inclusă în mediul de dezvoltare Arduino IDE. </li>
 
-Radio:
+<h4>Radio:</h4>
 
-Bibliotecă utilă pentru a facilitata utilizarea modulului FM;
+<li>Bibliotecă utilă pentru a facilitata utilizarea modulului FM;</li>
 
-Dezvoltată de Matthias Hertel și este disponibilă în Library Manager.
+<li>Dezvoltată de Matthias Hertel și este disponibilă în Library Manager.</li>
 
-LiquidCrystal_I2C:
+<h4>LiquidCrystal_I2C:</h4>
 
-Creată special pentru utilizarea unui ecran  LCD 1602 prin protocolul I2C;
+<li>Creată special pentru utilizarea unui ecran  LCD 1602 prin protocolul I2C;</li>
 
-Dezvoltată de Frank de Brabander și este inclusă în Library Manager.
+<li>Dezvoltată de Frank de Brabander și este inclusă în Library Manager.</li>
 
 Pentru a afla mai multe detalii despre cum să instalați o bibliotecă în mediul de dezvoltare Arduino IDE, accesăți urmatorul <a href="https://www.optimusdigital.ro/content/10-tutorial-instalare-biblioteca"><span style="text-decoration: underline;">link</span>.</a>
 
