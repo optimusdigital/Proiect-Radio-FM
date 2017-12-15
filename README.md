@@ -41,7 +41,7 @@ De asemenea, modulul FM necesită și o antenă pentru a funcționa corespunzăt
 
 Modulul FM și LCD-ul comunică prin protocolul I2C. Ținând cont că cele două componente au adrese diferite, utilizarea lor în cadrul aceluiași proiect este posibilă. Adresa la care poate fi accesat LCD-ul este, de obicei, 0x3F. În cazul în care această adresă nu este corectă, accesați următorul <a href="https://playground.arduino.cc/Main/I2cScanner">link</a> pentru a afla cum să o descoperiți pe cea corectă.
 
-
+<img src="https://www.optimusdigital.ro/img/cms/Instructiuni%20Sorin/radio/Schema-de-conectare%20.png" alt="" width="1117" height="854" />
 
 
 
