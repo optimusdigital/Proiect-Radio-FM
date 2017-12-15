@@ -26,8 +26,7 @@
 <p>Înainte de a conecta piesele între ele, trebuie să le pregătiți pentru a putea fi utilizate. De exemplu, trebuie să lipiți pinii pe amplificatorul audio, pe translatorul de nivel logic, dar și pe modulul FM.</p>
 <p><strong>ATENȚIE! Distanța dintre pinii modulului FM nu este standard (2.54cm). În loc de pini puteți să lipiți direct fire.</strong></p>
 <p>De asemenea, modulul FM necesită și o antenă pentru a funcționa corespunzător. Lungimea firului utilizat drept antenă variază în funcție de frecventă pe care doriți să o ascultați. Pentru a recepționa frecvența 107 MHz, optim ar fi să utilizați o antenă cu lungimea de 66.7 cm. Dacă doriți să recepționați cât mai multe frecvențe puteți să utilizați o valoare mediana, cum ar fi lungimea de ~73 cm. <span id="docs-internal-guid-e9fbae9b-560b-95c8-fe8d-2dc07c422043"><span>Puteți consulta un </span><a href="http://www.csgnetwork.com/antennaevcalc.html"><span>calculator online</span></a><span> pentru a afla și alte lungimi specifice anumitor frecvențe. Lungimea de bandă este ¼.</span></span></p>
-<h2></h2>
-<h2></h2>
+
 <h2><strong><span id="docs-internal-guid-b5b72b52-560d-bc0b-f777-95d3c9c0d15f">Realizați conexiunile hardware</span></strong></h2>
 <p></p>
 <p>Modulul FM și LCD-ul comunică prin protocolul I<sup>2</sup>C. Ținând cont că cele două componente au adrese diferite, utilizarea lor în cadrul aceluiași proiect este posibilă. Adresa la care poate fi accesat LCD-ul este, de obicei, 0x3F. În cazul în care această adresă nu este corectă, accesați următorul <a href="https://playground.arduino.cc/Main/I2cScanner">link</a> pentru a afla cum să o descoperiți pe cea corectă.</p>
