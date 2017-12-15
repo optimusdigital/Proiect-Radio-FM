@@ -20,7 +20,7 @@
 <p dir="ltr"><span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/letcon-uri/3019-letcon-velleman-60-w-230-v.html">letcon</a></span> și <span style="text-decoration: underline;"><a href="https://www.optimusdigital.ro/fludor/23-fludor-la-tub-1mm-10-gr.html">fludor</a></span>;</p>
 </li>
 </ul>
-<p><img src="https://www.optimusdigital.ro/img/cms/Instructiuni%20Sorin/componente%20proiect%20.jpg" alt="" width="1117" height="745" /></p>
+<p><img src="https://www.optimusdigital.ro/img/cms/Instructiuni%20Sorin/componente%20proiect%20.jpg" width="1117" height="745" /></p>
 <h2><strong>Pregătirea componentelor</strong></h2>
 <p></p>
 <p>Înainte de a conecta piesele între ele, trebuie să le pregătiți pentru a putea fi utilizate. De exemplu, trebuie să lipiți pinii pe amplificatorul audio, pe translatorul de nivel logic, dar și pe modulul FM.</p>
