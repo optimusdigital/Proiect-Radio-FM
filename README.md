@@ -4,7 +4,7 @@
 
 Proiectul constă în crearea unui radio controlat de o placă de dezvoltare Arduino. Componentele care stau la baza acestui proiect sunt modulul FM RDA5807M și amplificatorul audio PAM8403. Placa de dezvoltare are rolul de a seta parametri de funcționare a modulului FM.  De asemenea, aceasta este folosită și de un ecran LCD 1602 pentru a afișa informații utile, cum ar fi frecvența de recepție sau volumul. Datorită diferenței tensiunii de funcționare a plăcii de dezvoltare și modulul FM, trebuie să utilizați un translator de nivel logic.
 
-<b> Componente necesare </b>
+<b> <h3> Componente necesare </h3> </b>
 
 <li>Placă de dezvoltare: Arduino Uno; </li>
 <li>Modul FM RDA5807M; </li>
@@ -24,7 +24,7 @@ Proiectul constă în crearea unui radio controlat de o placă de dezvoltare Ard
 
 
 
-<b><h2> Pregătirea componentelor </h2><b>
+<b><h3> Pregătirea componentelor </h3><b>
 
 
 
@@ -35,10 +35,7 @@ ATENȚIE! Distanța dintre pinii modulului FM nu este standard (2.54cm). În loc
 De asemenea, modulul FM necesită și o antenă pentru a funcționa corespunzător. Lungimea firului utilizat drept antenă variază în funcție de frecventă pe care doriți să o ascultați. Pentru a recepționa frecvența 107 MHz, optim ar fi să utilizați o antenă cu lungimea de 66.7 cm. Dacă doriți să recepționați cât mai multe frecvențe puteți să utilizați o valoare mediana, cum ar fi lungimea de ~73 cm. Puteți consulta un calculator online pentru a afla și alte lungimi specifice anumitor frecvențe. Lungimea de bandă este ¼.
 
 
-
-
-
-Realizați conexiunile hardware
+<b> <h3> Realizați conexiunile hardware </h3> </b>
 
 
 
@@ -54,7 +51,7 @@ Amplificatorul audio PAM 8403 se alimentează cu o tensiune cuprinsă între 2.5
 
 
 
-Încărcarea codului pe placa de dezvoltare
+<b> <h3> Încărcarea codului pe placa de dezvoltare </h3> </b>
 
 
 
